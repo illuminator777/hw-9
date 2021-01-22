@@ -35,10 +35,6 @@
   color: rgba(0, 0, 0, 0.75);
 }
 
-.img-bottom {
-  margin-top: 32px;
-}
-
 .ikon-pos {
 position: relative;
 left: 20px;
@@ -51,4 +47,8 @@ margin: 70px 0;
 
 .text-center {
 text-align: center;
+}
+
+div {
+  letter-spacing: 3px;
 }
