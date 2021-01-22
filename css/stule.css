@@ -1,0 +1,54 @@
+.container {
+  margin-top: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  background-color: #E2E7EC;
+}
+
+.padding-card {
+  padding: 25px 0 78px 0;
+}
+
+.padding-row {
+  padding-top: 60px;
+}
+
+.text-img {
+  position: absolute;
+  bottom: 8px;
+  left: 47px;
+  color: white;
+  font-size: 30px;
+}
+
+.card-title-img {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.padding-card-img {
+  padding: 0 0 25px 0;
+}
+
+.card-title {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.img-bottom {
+  margin-top: 32px;
+}
+
+.ikon-pos {
+position: relative;
+left: 20px;
+top: -20px;
+}
+
+.margin-footer {
+margin: 70px 0;
+}
+
+.text-center {
+text-align: center;
+}
